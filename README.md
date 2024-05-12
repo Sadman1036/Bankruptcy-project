@@ -18,9 +18,3 @@ The models' performances were evaluated based on precision, recall, F1-score, an
 - **Logistic Regression and MDA** showed robust results but were less effective in minority class predictions.
 - **Naïve Bayes** struggled with a high rate of false positives, affecting its overall precision and F1-score.
 
-## Installation
-Clone this repository and install the required packages:
-```bash
-git clone https://github.com/yourusername/bankruptcy-prediction.git
-cd bankruptcy-prediction
-pip install -r requirements.txt
